@@ -1,0 +1,7 @@
+project_id = "hiinbxqojmzhxzkuuebe"
+
+[functions.grade-answers]
+verify_jwt = false
+
+[functions.export-database]
+verify_jwt = false
